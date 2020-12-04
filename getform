@@ -1,1 +1,4 @@
-<form autocomplete="off" action="" name="gradAssign" id="gradAssign"><br>
+<form autocomplete="off" action="" name="gradAssign" id="gradAssign"> <br>
+<p>var formName = document.forms[0].
+<input size="10" maxlength="8" placeholder="????" name="userName" id="userName" type="text">;
+<span class="message" id="formMessage"> Keep trying </span></p><br>
